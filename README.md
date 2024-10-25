@@ -4,7 +4,15 @@
 - 💞️ I’m looking to collaborate on innovative tech projects and open-source contributions.
 - 📫 How to reach me: collooceo@gmail.com
 
-<!---
-colloceo/colloceo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🌟 Projects
+- [Project Name](link): Brief description of what the project does.
+- [Another Project](link): Brief description.
+
+## 🛠️ Skills
+- Languages: Python, JavaScript
+- Frameworks: Django, Flask
+- Tools: Git, Docker
+
+## 🌍 Connect with me
+- [LinkedIn](your-link)
+- [Twitter](your-link)
