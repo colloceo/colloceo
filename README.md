@@ -5,8 +5,8 @@
 - 📫 How to reach me: collooceo@gmail.com
 
 ## 🌟 Projects
-- [Dial A Mechi](https://dial-a-mechi.vercel.app/index.html): Brief description of what the project does.
-- [Kchat](https://kchat-client.vercel.app/): Brief description.
+- [Dial A Mechi](https://dial-a-mechi.vercel.app/index.html): An application for connecting horny souls.
+- [Kchat](https://kchat-client.vercel.app/): A chat application.
 
 ## 🛠️ Skills
 - Languages: Python, JavaScript
