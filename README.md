@@ -5,7 +5,7 @@
 - 📫 How to reach me: collooceo@gmail.com
 
 ## 🌟 Projects
-- [Dial A Mechi](link): Brief description of what the project does.
+- [Dial A Mechi](https://dial-a-mechi.vercel.app/index.html): Brief description of what the project does.
 - [Kchat](link): Brief description.
 
 ## 🛠️ Skills
