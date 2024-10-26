@@ -9,7 +9,7 @@
 - [Kchat](https://kchat-client.vercel.app/): A chat application.
 
 ## 🛠️ Skills
-- Languages: Python, JavaScript
+- Languages: Python, JavaScript, CSS, HTML, Java, React, Node
 - Frameworks: Django, Flask
 - Tools: Git, Docker
 
