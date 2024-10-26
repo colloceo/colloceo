@@ -6,7 +6,7 @@
 
 ## 🌟 Projects
 - [Dial A Mechi](https://dial-a-mechi.vercel.app/index.html): Brief description of what the project does.
-- [Kchat](link): Brief description.
+- [Kchat](https://kchat-client.vercel.app/): Brief description.
 
 ## 🛠️ Skills
 - Languages: Python, JavaScript
