@@ -1,31 +1,109 @@
-# 💫 About Me:
-# 👋 Hi, I’m Collins Otieno  <br><br>- 👀 I’m a **software developer** passionate about **AI, cybersecurity, web development, and networking.**  <br>- 🚀 I love building **high-performance applications** and solving **real-world problems with technology.**  <br>- 🌱 Currently exploring **penetration testing (Burp Suite), AI development, and networking (ISP & WiFi business).**  <br>- 💡 I’m open to **collaborations** on innovative **tech projects and open-source contributions.**  <br>- 📫 Reach me at **collooceo@gmail.com**  <br><br>---<br><br>## 🌟 Projects  <br><br>### 🔹 **Web & Software Development**  <br>- **[memes254ke](your-link)** – A **modern meme-sharing platform** for Kenya with **likes, comments, sharing, categories, and social media integration.**  <br>- **[Custom PyQt Web Browser](your-link)** – A **professional, user-friendly web browser** with **bookmarks, history, dark mode, downloads, and smart URL detection.**  <br>- **[Kchat](https://kchat-client.vercel.app/)** – A **real-time chat application** with an intuitive UI.  <br>- **[Dial A Mechi](https://dial-a-mechi.vercel.app/index.html)** – An application for **connecting “horny souls.”**  <br>- **[Web-Based POS System](your-link)** – A Django-powered **point-of-sale system** with **inventory, sales tracking, analytics, and customer management.**  <br>- **[Meme Web App (TikTok-Style)](your-link)** – A **funny meme-sharing app** with **infinite scrolling and user interaction.**  <br><br>### 🔹 **Cybersecurity & AI**  <br>- **[AI-Powered Fake News Detector](your-link)** – An AI model for **detecting misinformation and fake news.**  <br>- **[Burp Suite Security Testing](your-link)** – Exploring **penetration testing and web security vulnerabilities.**  <br>
+# 💫 About Me
+👋 Hi, I’m **Collins Otieno**
 
+- 👨‍💻 I’m a **software developer** passionate about **AI, cybersecurity, web development, and networking**  
+- 🚀 I enjoy building **high-performance applications** that solve **real-world problems**  
+- 🌱 Currently exploring **penetration testing (Burp Suite), AI models, and ISP/WiFi distribution**  
+- 💡 Open to **collaborations** on innovative tech projects and **open-source contributions**  
+- 📫 Reach me at: **collooceo@gmail.com**
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/youngengineer247) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@colloceo) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/collooceo ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:collooceo@gmail.com) 
+---
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Linode](https://img.shields.io/badge/linode-00A95C?style=for-the-badge&logo=linode&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![PocketBase](https://img.shields.io/badge/pocketbase-%23b8dbe4.svg?style=for-the-badge&logo=Pocketbase&logoColor=black) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=colloceo&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=colloceo&theme=vue-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=colloceo&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 🌟 Featured Projects
+
+### 🔹 Web & Software Development
+- 🎭 **[memes254ke](#)** – A modern **Kenyan meme-sharing platform** with likes, comments, sharing, categories & social media integration  
+- 🌐 **[Custom PyQt Browser](#)** – A sleek, user-friendly browser with bookmarks, history, downloads, and dark mode  
+- 💬 **[Kchat](https://kchat-client.vercel.app/)** – A real-time chat app with a clean, intuitive interface  
+- ❤️ **[Dial A Mechi](https://dial-a-mechi.vercel.app/index.html)** – A fun platform for **connecting interested individuals**  
+- 🛒 **[POS System](#)** – A web-based Django POS with **inventory, sales, analytics & customer management**  
+- 😂 **[TikTok-Style Meme App](#)** – A vertical scrolling meme app for **sharing and interacting with funny content**
+
+### 🔹 Cybersecurity & AI
+- 🧠 **[Fake News Detector](#)** – AI-powered system to detect **misinformation and fake news**  
+- 🛡️ **[Burp Suite Testing](#)** – Ongoing projects focused on **web vulnerability scanning & ethical hacking**
+
+---
+
+## 🌐 Socials
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/youngengineer247)
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@colloceo)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/collooceo)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:colloceo@gmail.com)
+
+---
+
+## 💻 Tech Stack
+**Languages & Frameworks**  
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript)
+![Python](https://img.shields.io/badge/python-3670A0.svg?style=for-the-badge&logo=python)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin)
+
+**Frameworks & Tools**  
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F.svg?style=for-the-badge&logo=node.js)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react)
+![Angular](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap)
+
+**DevOps & Cloud**  
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify)
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean)
+
+**Databases**  
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite)
+![PocketBase](https://img.shields.io/badge/pocketbase-%23b8dbe4.svg?style=for-the-badge&logo=Pocketbase&logoColor=black)
+
+**AI & Cybersecurity**  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-orange.svg?style=for-the-badge&logoColor=white)
+
+**Version Control & Networking**  
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github)
+![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco)
+![Tor](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project)
+
+---
+
+## 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=colloceo&theme=vue-dark&show_icons=true&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=colloceo&layout=compact&theme=vue-dark&hide_border=false)
+![](https://nirzak-streak-stats.vercel.app/?user=colloceo&theme=vue-dark&hide_border=false)
+
+---
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=colloceo&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+---
+
+## ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
+---
+
+## 🔝 Top Repo Contribution
 ![](https://github-contributor-stats.vercel.app/api?username=colloceo&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+
+## 💰 Support My Work
+[![PayPal](https://img.shields.io/badge/PayPal-00457C.svg?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/otienocollins0549@gmail.com)
+
+---
+
 [![](https://visitcount.itsvg.in/api?id=colloceo&icon=0&color=0)](https://visitcount.itsvg.in)
-
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/otienocollins0549@gmail.com) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
