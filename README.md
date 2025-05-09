@@ -12,12 +12,12 @@
 ## 🌟 Featured Projects
 
 ### 🔹 Web & Software Development
-- 🎭 **[memes254ke](#)** – A modern **Kenyan meme-sharing platform** with likes, comments, sharing, categories & social media integration  
-- 🌐 **[Custom PyQt Browser](#)** – A sleek, user-friendly browser with bookmarks, history, downloads, and dark mode  
+- 🎭 **[memes254ke](http://collooceo.pythonanywhere.com/)** – A modern **Kenyan meme-sharing platform** with likes, comments, sharing, categories & social media integration  
+- 🌐 **[Custom PyQt Browser](https://github.com/colloceo/collins_browser)** – A sleek, user-friendly browser with bookmarks, history, downloads, and dark mode  
 - 💬 **[Kchat](https://kchat-client.vercel.app/)** – A real-time chat app with a clean, intuitive interface  
 - ❤️ **[Dial A Mechi](https://dial-a-mechi.vercel.app/index.html)** – A fun platform for **connecting interested individuals**  
 - 🛒 **[POS System](#)** – A web-based Django POS with **inventory, sales, analytics & customer management**  
-- 😂 **[TikTok-Style Meme App](#)** – A vertical scrolling meme app for **sharing and interacting with funny content**
+- 😂 **[TikTok-Style Meme App](http://collooceo.pythonanywhere.com/)** – A vertical scrolling meme app for **sharing and interacting with funny content**
 
 ### 🔹 Cybersecurity & AI
 - 🧠 **[Fake News Detector](#)** – AI-powered system to detect **misinformation and fake news**  
