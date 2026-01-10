@@ -3,27 +3,12 @@
 
 - 👨‍💻 I’m a **software developer** passionate about **AI, cybersecurity, web development, and networking**  
 - 🚀 I enjoy building **high-performance applications** that solve **real-world problems**  
-- 🌱 Currently exploring **penetration testing (Burp Suite), AI models, and ISP/WiFi distribution**  
+- 🌱 Currently exploring **penetration testing (Burp Suite) and AI models**  
 - 💡 Open to **collaborations** on innovative tech projects and **open-source contributions**  
 - 📫 Reach me at: **collooceo@gmail.com**
 
 ---
 
-## 🌟 Featured Projects
-
-### 🔹 Web & Software Development
-- 🎭 **[memes254ke](http://collooceo.pythonanywhere.com/)** – A modern **Kenyan meme-sharing platform** with likes, comments, sharing, categories & social media integration  
-- 🌐 **[Custom PyQt Browser](https://github.com/colloceo/collins_browser)** – A sleek, user-friendly browser with bookmarks, history, downloads, and dark mode  
-- 💬 **[Kchat](https://kchat-client.vercel.app/)** – A real-time chat app with a clean, intuitive interface  
-- ❤️ **[Dial A Mechi](https://dial-a-mechi.vercel.app/index.html)** – A fun platform for **connecting interested individuals**  
-- 🛒 **[POS System](#)** – A web-based Django POS with **inventory, sales, analytics & customer management**  
-- 😂 **[TikTok-Style Meme App](http://collooceo.pythonanywhere.com/)** – A vertical scrolling meme app for **sharing and interacting with funny content**
-
-### 🔹 Cybersecurity & AI
-- 🧠 **[Fake News Detector](#)** – AI-powered system to detect **misinformation and fake news**  
-- 🛡️ **[Burp Suite Testing](#)** – Ongoing projects focused on **web vulnerability scanning & ethical hacking**
-
----
 
 ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/youngengineer247)
