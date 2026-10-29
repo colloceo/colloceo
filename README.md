@@ -72,27 +72,10 @@ I’m a software developer with a passion for AI, cybersecurity, web development
 
 ## Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/colloceo/colloceo-wifi-billing-system">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=colloceo&repo=colloceo-wifi-billing-system&theme=vue-dark" alt="WiFi Billing System" />
-</a>
-<a href="https://github.com/colloceo/MiniDB">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=colloceo&repo=MiniDB&theme=vue-dark" alt="MiniDB" />
-</a>
-
-</div>
-
-<div align="center">
-
-<a href="https://github.com/colloceo/collins_browser">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=colloceo&repo=collins_browser&theme=vue-dark" alt="Collins Browser" />
-</a>
-<a href="https://github.com/colloceo/EventPass">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=colloceo&repo=EventPass&theme=vue-dark" alt="EventPass" />
-</a>
-
-</div>
+- [🚀 WiFi Billing & ISP Management System](https://github.com/colloceo/colloceo-wifi-billing-system) — Full-stack hotspot billing system with M-Pesa integration.
+- [🧠 MiniDB](https://github.com/colloceo/MiniDB) — Custom RDBMS built from scratch in Python.
+- [🌐 collins_browser](https://github.com/colloceo/collins_browser) — PyQt5 browser with incognito mode, dev tools, and a sleek tab experience.
+- [🎫 EventPass](https://github.com/colloceo/EventPass) — Event management system for smooth registration and ticket flows.
 
 ---
 
