@@ -88,7 +88,7 @@ I’m a software developer with a passion for AI, cybersecurity, web development
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=colloceo&theme=radical&margin-w=6&margin-h=6)
+![](https://github-profile-trophy.vercel.app/?username=colloceo&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 </div>
 
@@ -102,6 +102,6 @@ I’m a software developer with a passion for AI, cybersecurity, web development
 
 <div align="center">
 
-[![Visitor Count](https://visitcount.itsvg.in/api?id=colloceo&icon=0&color=0)](https://visitcount.itsvg.in)
+![Profile views](https://komarev.com/ghpvc/?username=colloceo&label=Profile%20views&color=brightgreen)
 
 </div>
